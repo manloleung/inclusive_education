@@ -9,7 +9,7 @@
   - ## Lack of concentration
   - ## Cannot focus on things that students do not like
     
-# II. Common behaviour of students with Attention Deficit Disordr (ADD)
+# II. Common behaviour of students with Attention Deficit Disorder (ADD)
   - ##
   - ##
 
