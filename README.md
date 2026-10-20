@@ -2,8 +2,7 @@
 
 # Definition of ADHD
 1. What is ADHD?
-- According to DSM-5-TR, ADHD includes two diagnosed issues, which are Attention Deficit Dirorder and Hyperactivity Disorder.
-- This diagnoised disorder usually indicates student with the following behavioral issues with two main types, I. Attention Deficit, and II. Hyperactivity 
+- According to DSM-5-TR (American Psychiatric Association, 2022), ADHD is classified as a neurodevelopmental condition that people are suffering with chronic inattention, hyperactivity and impulsivity that may affect a person in various aspects.
 
 # I. Common behaviour of students with Attention Deficit Disorder (ADD)
   - ## Lack of concentration
@@ -98,4 +97,4 @@
 
 
 # Reference
-- 
+- American Psychiatric Association. (2022). Diagnostic and statistical manual of mental disorders (5th ed., text rev.). https://doi.org/10.1176/appi.books.9780890425787
