@@ -2,15 +2,14 @@
 
 # Definition of ADHD
 1. What is ADHD?
-- According to DSM-5-TR (American Psychiatric Association, 2022), ADHD is classified as a neurodevelopmental condition that people are suffering with chronic inattention, hyperactivity and impulsivity that may affect a person in various aspects.
+- In neuro diversity, ADHD stands two different disorders which are Attetion Deficit Disorder (AD) and Hyperactivity Disorder (HD). The According to DSM-5-TR (American Psychiatric Association, 2022), ADHD is classified as a neurodevelopmental condition that people are suffering with chronic inattention, hyperactivity and impulsivity that may affect a person in various aspects.
   
 # Methodology of the ADHD diagnosis 
 1. Having a consultation time between the educational psychologist, guardians, and children
    - Interview with parents, caregiver and the children his/ her own (Faraone, 2021).
 # I. Common behaviour of students with Attention Deficit Disorder (ADD)
-  - ## Lack of concentration
-    -   
-  - ## Cannot focus on things that students do not like
+    - Lack of concentration
+    - Cannot focus on things that students do not like
     
 # II. Common behaviour of students with Attention Deficit Disorder (ADD)
   - ##
