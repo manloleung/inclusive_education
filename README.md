@@ -1,6 +1,6 @@
 ## Special Educational Needs (SEN) in Inclusive Education
 
-There are NINE types of SEN in total at Hong Kong< and they are as follows:
+There are **NINE** types of SEN in total at Hong Kong, and they are as follows:
 
 ## 1. Specific Learning Difficulties (SpLD)
 ## 2. Intellectual Disability (ID)
